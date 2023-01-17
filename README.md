@@ -5,3 +5,5 @@ blue
 green
 yello
 red
+black
+white
